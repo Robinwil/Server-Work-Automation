@@ -1,0 +1,14 @@
+{
+    "name": "svelte-app",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "svelte-kit dev",
+        "build": "svelte-kit build",
+        "start": "svelte-kit start"
+    },
+    "devDependencies": {
+        "@sveltejs/kit": "next",
+        "svelte": "^3.0.0"
+    },
+    "type": "module"
+}
